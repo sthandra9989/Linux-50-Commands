@@ -1,5 +1,6 @@
 # The `whoami` Command in Linux
 
+
 ## Overview
 The `whoami` command is a simple yet powerful Unix/Linux command that displays the username of the currently logged-in user. It's particularly useful in scripts and when working with multiple user accounts or when running commands with different privileges.
 
