@@ -27,6 +27,7 @@ Welcome to the Linux Command Adventure! 🚀 Let's explore essential Linux comma
 
 ### 3️⃣ System Information
 - `whoami` 🤔 - **Who Am I** - Identity check in Linux
+- `uname` 🖥️ - **Unix Name** - Your system's ID card! Shows OS and hardware info
 - `top` 📈 - **Table of Processes** - See what's running and using resources
 - `ps` 📊 - **Process Status** - Snapshot of current processes
 - `stat` 📋 - **Statistics** - Get detailed file information
