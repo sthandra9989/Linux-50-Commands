@@ -14,6 +14,7 @@ Welcome to the Linux Command Adventure! 🚀 Let's explore essential Linux comma
 - `mkdir` 📁 - **Make Directory** - Create new folders for your stuff
 - `touch` ✨ - **Touch** - Create empty files or update timestamps
 - `ln` 🔗 - **Link** - Create shortcuts between files
+- `tar` 📦 - **Tape Archive** - Pack and compress your files like a pro!
 
 ### 2️⃣ File Content & Text Processing
 - `cat` 🐱 - **Concatenate** - Read and combine file contents
